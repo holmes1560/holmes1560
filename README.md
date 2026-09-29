@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=250&section=header&text=Asenso%20Owusu%20Ansah&fontSize=42&fontAlignY=38&desc=Full-Stack%20Architect%20%E2%80%A2%20IoT%20%26%20Firmware%20%E2%80%A2%20Network%20Forensics&descAlignY=58&descAlign=50&theme=tokyonight" width="100%" alt="Header Banner"/>
+  <img src="assets/banner.svg" width="100%" alt="Asenso Owusu Ansah Banner"/>
 </p>
 
 <!-- TYPING HEADLINE & SOCIAL BADGES -->
@@ -48,15 +48,7 @@
 
 ---
 
-<!-- TROPHIES -->
-<div align="center">
-  <h3>🏆 GitHub Trophies</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=holmes1560&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</div>
-
----
-
-<!-- TECH STACK (SKILL ICONS) -->
+<!-- TECH STACK -->
 ### 🛠️ Tech Arsenal
 
 <div align="center">
@@ -188,31 +180,22 @@
 <div align="center">
 
 <!-- SNAKE CONTRIBUTION ANIMATION -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/holmes1560/holmes1560/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/holmes1560/holmes1560/output/github-snake.svg" />
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/holmes1560/holmes1560/output/github-snake-dark.svg" width="100%" />
-</picture>
-
-<br/><br/>
+<p align="center">
+  <img src="assets/github-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
+</p>
 
 <table border="0" width="100%">
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=holmes1560&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8" alt="GitHub Stats" width="100%" />
+      <img src="assets/stats.svg" alt="GitHub Engineer Stats" width="100%" />
     </td>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=holmes1560&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8" alt="Top Languages" width="100%" />
+      <img src="assets/languages.svg" alt="Core Language Distribution" width="100%" />
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=holmes1560&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak" width="100%" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=holmes1560&theme=tokyo-night&hide_border=true&area=true&color=38bdf8" alt="Activity Graph" width="100%" />
     </td>
   </tr>
 </table>
@@ -223,16 +206,6 @@
 
 <!-- INSPIRING QUOTE / OUTRO -->
 <div align="center">
-  <p>
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
-  </p>
-
   <p><i>"The seam between software and hardware is where abstractions stop helping — that's where the real engineering begins."</i></p>
-
   <b>Let's build something extraordinary.</b>
 </div>
-
-<!-- FOOTER BANNER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=120&section=footer&theme=tokyonight" width="100%" alt="Footer Banner"/>
-</p>
