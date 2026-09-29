@@ -1,151 +1,238 @@
+<!-- HEADER BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=250&section=header&text=Asenso%20Owusu%20Ansah&fontSize=42&fontAlignY=38&desc=Full-Stack%20Architect%20%E2%80%A2%20IoT%20%26%20Firmware%20%E2%80%A2%20Network%20Forensics&descAlignY=58&descAlign=50&theme=tokyonight" width="100%" alt="Header Banner"/>
+</p>
+
+<!-- TYPING HEADLINE & SOCIAL BADGES -->
 <div align="center">
 
-# Hi there, I'm Asenso Owusu Ansah 👋
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Computer+Science+%40+KNUST+%E2%80%94+Kumasi%2C+Ghana;Full-Stack+Architect+%7C+React+19+%26+Node.js;Embedded+Systems+%7C+ESP32+Firmware+%26+IoT;Distributed+Escrow+Ledgers+%26+State+Machines;Network+Forensics+%26+Deep+Packet+Inspection)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&width=620&height=40&lines=CS+%40+KNUST+%E2%80%94+Kumasi%2C+Ghana+%F0%9F%87%AC%F0%9F%87%AD;Full-Stack+Architect+%E2%80%94+React+19+%2B+Node.js+%2B+Prisma;Embedded+Systems+%E2%80%94+ESP32+Firmware+%26+RC522+IoT;Distributed+Systems+%E2%80%94+Escrow+State+Machines;Network+Security+%E2%80%94+Deep+Packet+Inspection+%26+IDS)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://linkedin.com/in/asenso-owusu-ansah">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:aowusuansah156@gmail.com">
-    <img src="https://img.shields.io/badge/Email-aowusuansah156%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/holmes1560">
-    <img src="https://img.shields.io/badge/GitHub-holmes1560-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-holmes1560-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <img src="https://img.shields.io/badge/Location-Kumasi%2C%20Ghana-24292e?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
+  <img src="https://komarev.com/ghpvc/?username=holmes1560&label=PROFILE+VIEWS&color=0284c7&style=for-the-badge" alt="Profile Views" />
 </p>
-
----
 
 </div>
 
-### ⚡ About Me
+---
 
-I build software across an unusually wide range of layers — mostly because I refuse to be boxed into just one. 
+<!-- TERMINAL / ABOUT CARD -->
+### 💻 System Terminal
 
-In a single year, I engineered an **ESP32 firmware-driven RFID door & attendance system**, architected a **double-checked P2P financial escrow ledger** with strict zero-balance drift, and designed **deep packet inspection pipelines** for network forensics.
-
-The through-line is simple: **I learn by building the system, stressing it to failure, and deeply understanding the seam where software meets reality.**
-
-- 🎓 **Studies**: Computer Science at **Kwame Nkrumah University of Science and Technology (KNUST)**
-- 🔭 **Currently Building**: [VeriTrust](https://github.com/Veritrust-p2p/p2p) — Trust-as-a-Service P2P marketplace & escrow engine (Web, Mobile & API)
-- 🛠️ **Core Focus**: Distributed state machines, embedded IoT firmware, typed backend architectures, network security
-- 💬 **Ask Me About**: Microcontroller hardware integration, WebSocket synchronization, double-checked ledgers, TypeScript
+```jsonc
+// templar@knust:~$ cat /etc/identity.json
+{
+  "engineer": "Asenso Owusu Ansah",
+  "callsign": "holmes1560",
+  "location": "Kumasi, Ghana 🇬🇭",
+  "academia": "B.Sc. Computer Science @ KNUST",
+  "philosophy": "Systems where the failure mode matters more than the happy path.",
+  "layers": [
+    "TypeScript / React 19 / Expo mobile clients",
+    "Typed Express & Prisma transactional backends",
+    "ESP32 C/C++ firmware & SPI/I2C sensor integration",
+    "Packet-level network traffic forensics & intrusion detection"
+  ],
+  "mission": "Refusing to pick just one layer — building the seam where software meets hardware."
+}
+```
 
 ---
 
-### 🚀 Flagship Projects
+<!-- TROPHIES -->
+<div align="center">
+  <h3>🏆 GitHub Trophies</h3>
+  <img src="https://github-profile-trophy.vercel.app/?username=holmes1560&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</div>
+
+---
+
+<!-- TECH STACK (SKILL ICONS) -->
+### 🛠️ Tech Arsenal
+
+<div align="center">
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,python,cpp,c,react,nextjs,tailwind,nodejs,express&perline=10" alt="Tech Stack Line 1"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=postgres,prisma,redis,arduino,docker,linux,git,github,postman,vscode&perline=10" alt="Tech Stack Line 2"/>
+</p>
+
+</div>
+
+---
+
+<!-- FLAGSHIP PROJECTS -->
+### 🚀 Flagship Engineered Systems
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🛡️ VeriTrust — P2P Escrow Engine</h3>
+      <div align="center">
+        <h3>🛡️ VeriTrust</h3>
+        <p><b>Trust-as-a-Service P2P Escrow & Dispute Engine</b></p>
+      </div>
       <p>
-        Trust-as-a-Service peer-to-peer commerce and dispute arbitration ecosystem designed to eliminate transaction standoff between buyers and sellers.
+        Zero-balance-drift peer-to-peer commerce and dispute arbitration ecosystem removing the standoff between buyers and sellers.
       </p>
       <ul>
-        <li>Guarded single-gateway state machine preventing balance drift</li>
-        <li>Dual-client architecture: React 19 web app & Expo SDK React Native mobile</li>
-        <li>HMAC-SHA512 webhook verification & test Paystack payment engine</li>
+        <li><b>Guarded State Machine:</b> Atomic transitions with event audit trail</li>
+        <li><b>Cross-Platform:</b> React 19 web portal + Expo SDK React Native mobile app</li>
+        <li><b>Ledger Partitioning:</b> Integer pesewas (available, pending, escrow-locked)</li>
+        <li><b>Security:</b> HMAC-SHA512 raw-body webhook signature verification</li>
       </ul>
-      <p>
-        <b>Stack:</b> <code>React 19</code> · <code>React Native</code> · <code>Express 5</code> · <code>Prisma 7</code> · <code>PostgreSQL</code> · <code>Socket.IO</code>
+      <p align="center">
+        <a href="https://github.com/Veritrust-p2p/p2p">
+          <img src="https://img.shields.io/badge/Repository-VeriTrust-0284c7?style=flat-square&logo=github" alt="VeriTrust Repo" />
+        </a>
+        <a href="https://veritrust-p2p.vercel.app">
+          <img src="https://img.shields.io/badge/Live_Demo-Active-10b981?style=flat-square&logo=vercel" alt="VeriTrust Demo" />
+        </a>
       </p>
-      <a href="https://github.com/Veritrust-p2p/p2p"><b>View Repository →</b></a>
+      <details>
+        <summary><b>🔍 Technical Architecture Deep-Dive</b></summary>
+        <br/>
+        <p>• <i>Backend:</i> Node.js & Express 5 REST + Socket.IO API backed by Prisma 7 and Neon PostgreSQL.</p>
+        <p>• <i>Concurrence Guard:</i> Row-level debit locks prevent negative wallet balances during simultaneous checkout and withdrawal requests.</p>
+        <p>• <i>Resilient Delivery:</i> Custom multi-driver HTTPS mail pipeline bypassing cloud container SMTP port blocks.</p>
+      </details>
     </td>
     <td width="50%" valign="top">
-      <h3>📟 Smart RFID Access & Attendance System</h3>
+      <div align="center">
+        <h3>📟 Smart RFID Access System</h3>
+        <p><b>Embedded ESP32 IoT Attendance & Lock Platform</b></p>
+      </div>
       <p>
-        End-to-end hardware & IoT access management solution integrating embedded microcontrollers with a central verification dashboard.
+        Hardware-to-cloud security platform combining embedded microcontrollers with a live administrative audit log.
       </p>
       <ul>
-        <li>ESP32 firmware communicating with RC522 RFID readers via SPI/I2C</li>
-        <li>Instant cryptographic validation against SQLite/Postgres backend</li>
-        <li>Custom designed & 3D-printed physical housing for secure deployment</li>
+        <li><b>Hardware Core:</b> ESP32 SoC interfacing RC522 RFID reader over SPI</li>
+        <li><b>Firmware:</b> Non-blocking C/C++ FreeRTOS tasks with hardware watchdog</li>
+        <li><b>Physical Prototyping:</b> Custom designed & 3D-printed enclosure</li>
+        <li><b>Sync Engine:</b> Low-latency Wi-Fi token authentication with backend database</li>
       </ul>
-      <p>
-        <b>Stack:</b> <code>ESP32</code> · <code>C/C++</code> · <code>FreeRTOS</code> · <code>RFID (SPI)</code> · <code>Node.js</code> · <code>REST API</code>
+      <p align="center">
+        <a href="https://github.com/holmes1560/smart-rfid-attendance-system">
+          <img src="https://img.shields.io/badge/Repository-Smart_RFID-0284c7?style=flat-square&logo=github" alt="RFID Repo" />
+        </a>
+        <a href="https://github.com/holmes1560/RFID_Door_lock">
+          <img src="https://img.shields.io/badge/Hardware-Door_Lock-f59e0b?style=flat-square&logo=arduino" alt="Hardware Lock" />
+        </a>
       </p>
-      <a href="https://github.com/holmes1560/smart-rfid-attendance-system"><b>View Repository →</b></a>
+      <details>
+        <summary><b>🔍 Hardware & Protocol Deep-Dive</b></summary>
+        <br/>
+        <p>• <i>Bus Topology:</i> SPI bus running at high clock speed for instant UID read cycles under 50ms.</p>
+        <p>• <i>Fault Tolerance:</i> Local queue cache in SPIFFS memory ensuring zero scan loss during Wi-Fi reconnect drops.</p>
+        <p>• <i>Actuation:</i> Optocoupler-isolated relay circuit safely firing 12V electromagnetic strike locks.</p>
+      </details>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🔍 P-DeepIDS — Packet Forensics & IDS</h3>
+      <div align="center">
+        <h3>🔍 P-DeepIDS</h3>
+        <p><b>Network Forensics & Deep Packet Inspection</b></p>
+      </div>
       <p>
-        High-throughput deep packet inspection and network intrusion detection system capable of real-time protocol dissection and anomaly discovery.
+        High-throughput packet dissection and network anomaly detector extracting transport & application layer heuristics.
       </p>
       <ul>
-        <li>Real-time traffic capture & parsing across layers 3–7</li>
-        <li>Feature extraction for malicious behavioral pattern detection</li>
-        <li>Low-latency telemetry and alert dispatching pipeline</li>
+        <li>Live layer 3–7 frame parsing and flow reconstruction</li>
+        <li>Statistical anomaly and protocol misuse flagging</li>
+        <li>Exportable pcap analysis and event notification pipeline</li>
       </ul>
-      <p>
-        <b>Stack:</b> <code>Python</code> · <code>Scapy</code> · <code>Network Analysis</code> · <code>Wireshark</code>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark" />
+        <img src="https://img.shields.io/badge/Scapy-Packet_Engine-red?style=flat-square" alt="Scapy" />
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🎙️ Voxsynq — Realtime Communications</h3>
+      <div align="center">
+        <h3>🎙️ Voxsynq</h3>
+        <p><b>Low-Latency WebRTC & Socket Engine</b></p>
+      </div>
       <p>
-        Modern real-time video, voice, and peer-to-peer messaging engine built with high concurrency and low latency.
+        Scalable real-time video, audio, and peer-to-peer data platform with resilient signaling and state reconciliation.
       </p>
       <ul>
-        <li>WebRTC media stream negotiation and ICE/STUN signaling</li>
-        <li>Real-time collaborative chat and presence states</li>
-        <li>Resilient reconnection and session recovery mechanisms</li>
+        <li>ICE/STUN/TURN connection management & stream negotiation</li>
+        <li>Low-overhead signaling protocol over WebSockets</li>
+        <li>Optimized client media rendering and bandwidth management</li>
       </ul>
-      <p>
-        <b>Stack:</b> <code>WebRTC</code> · <code>Socket.IO</code> · <code>React</code> · <code>Node.js</code>
+      <p align="center">
+        <a href="https://github.com/holmes1560/Voxsynq_Temp">
+          <img src="https://img.shields.io/badge/Repository-Voxsynq-0284c7?style=flat-square&logo=github" alt="Voxsynq Repo" />
+        </a>
+        <img src="https://img.shields.io/badge/WebRTC-Realtime-green?style=flat-square&logo=webrtc" alt="WebRTC" />
       </p>
-      <a href="https://github.com/holmes1560/Voxsynq_Temp"><b>View Repository →</b></a>
     </td>
   </tr>
 </table>
 
 ---
 
-### 🛠️ Tech Stack & Arsenal
-
-<div align="center">
-
-| Domain | Technologies & Frameworks |
-| :--- | :--- |
-| **Languages** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white) |
-| **Frontend & Mobile** | ![React](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black) ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black) ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) |
-| **Backend & Databases** | ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma_7-2D3748?style=flat-square&logo=prisma&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
-| **Hardware & Embedded** | ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-00A871?style=flat-square&logo=freertos&logoColor=white) ![SPI / I2C](https://img.shields.io/badge/SPI%20%2F%20I2C-hardware-blue?style=flat-square) |
-| **DevOps & Tooling** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white) |
-
-</div>
-
----
-
+<!-- LIVE ACTIVITY & GRAPHS -->
 ### 📊 GitHub Activity & Analytics
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=holmes1560&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8" alt="GitHub Stats" width="100%" />
-      </td>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=holmes1560&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8" alt="Top Languages" width="100%" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=holmes1560&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak" width="100%" />
-      </td>
-    </tr>
-  </table>
+
+<!-- SNAKE CONTRIBUTION ANIMATION -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/holmes1560/holmes1560/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/holmes1560/holmes1560/output/github-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/holmes1560/holmes1560/output/github-snake-dark.svg" width="100%" />
+</picture>
+
+<br/><br/>
+
+<table border="0" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=holmes1560&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8" alt="GitHub Stats" width="100%" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=holmes1560&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8" alt="Top Languages" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=holmes1560&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=holmes1560&theme=tokyo-night&hide_border=true&area=true&color=38bdf8" alt="Activity Graph" width="100%" />
+    </td>
+  </tr>
+</table>
+
 </div>
 
 ---
 
+<!-- INSPIRING QUOTE / OUTRO -->
 <div align="center">
-  <i>"Systems where the failure mode matters more than the happy path."</i>
-  <br/><br/>
-  <b>Let's build something remarkable.</b>
+  <p>
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
+  </p>
+
+  <p><i>"The seam between software and hardware is where abstractions stop helping — that's where the real engineering begins."</i></p>
+
+  <b>Let's build something extraordinary.</b>
 </div>
+
+<!-- FOOTER BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=120&section=footer&theme=tokyonight" width="100%" alt="Footer Banner"/>
+</p>
