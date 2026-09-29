@@ -1,51 +1,36 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 450 195" width="450" height="195">
-  <defs>
-    <linearGradient id="cardBgL" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0F172A"/>
-      <stop offset="100%" stop-color="#070B14"/>
-    </linearGradient>
-    <linearGradient id="accentL" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#38BDF8"/>
-      <stop offset="100%" stop-color="#C084FC"/>
-    </linearGradient>
-  </defs>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 450 185" width="450" height="185">
+  <rect width="448" height="183" x="1" y="1" rx="8" fill="#0f1011" stroke="#23252a" stroke-width="1.5"/>
 
-  <rect width="448" height="193" x="1" y="1" rx="12" fill="url(#cardBgL)" stroke="#1E293B" stroke-width="1.5"/>
+  <!-- Section Title -->
+  <text x="24" y="34" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Inter', sans-serif" font-size="14" font-weight="600" letter-spacing="1px" fill="#5e6ad2">LANGUAGE DISTRIBUTION</text>
 
-  <!-- Title -->
-  <text x="25" y="35" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="18" font-weight="700" fill="url(#accentL)">🚀 Core Language Distribution</text>
-
-  <!-- Language Progress Bar Multi-Segment -->
-  <g transform="translate(25, 55)">
-    <!-- TypeScript 45% -->
-    <rect x="0" y="0" width="180" height="10" rx="5" fill="#3178C6"/>
-    <!-- Python 25% -->
-    <rect x="184" y="0" width="100" height="10" rx="5" fill="#3776AB"/>
-    <!-- C / C++ 20% -->
-    <rect x="288" y="0" width="70" height="10" rx="5" fill="#00599C"/>
-    <!-- SQL / Shell 10% -->
-    <rect x="362" y="0" width="38" height="10" rx="5" fill="#10B981"/>
+  <!-- Multi-Segment Segmented Bar -->
+  <g transform="translate(24, 52)">
+    <rect x="0" y="0" width="180" height="8" rx="4" fill="#5e6ad2"/>
+    <rect x="184" y="0" width="100" height="8" rx="4" fill="#828fff"/>
+    <rect x="288" y="0" width="70" height="8" rx="4" fill="#7a7fad"/>
+    <rect x="362" y="0" width="40" height="8" rx="4" fill="#3e3e44"/>
   </g>
 
-  <!-- Legend Row 1 -->
-  <g transform="translate(25, 95)">
-    <circle cx="6" cy="6" r="5" fill="#3178C6"/>
-    <text x="20" y="10" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="600" fill="#E2E8F0">TypeScript / JS</text>
-    <text x="170" y="10" font-family="'SF Mono', Monaco, monospace" font-size="13" fill="#94A3B8">45%</text>
+  <!-- Legend 1 -->
+  <g transform="translate(24, 85)">
+    <circle cx="5" cy="5" r="4" fill="#5e6ad2"/>
+    <text x="16" y="9" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Inter', sans-serif" font-size="12.5" fill="#f7f8f8">TypeScript / JS</text>
+    <text x="165" y="9" font-family="'SF Mono', Menlo, monospace" font-size="12" fill="#8a8f98">45%</text>
 
-    <circle cx="215" cy="6" r="5" fill="#3776AB"/>
-    <text x="230" y="10" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="600" fill="#E2E8F0">Python</text>
-    <text x="365" y="10" font-family="'SF Mono', Monaco, monospace" font-size="13" fill="#94A3B8">25%</text>
+    <circle cx="215" cy="5" r="4" fill="#828fff"/>
+    <text x="226" y="9" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Inter', sans-serif" font-size="12.5" fill="#f7f8f8">Python</text>
+    <text x="375" y="9" font-family="'SF Mono', Menlo, monospace" font-size="12" fill="#8a8f98">25%</text>
   </g>
 
-  <!-- Legend Row 2 -->
-  <g transform="translate(25, 140)">
-    <circle cx="6" cy="6" r="5" fill="#00599C"/>
-    <text x="20" y="10" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="600" fill="#E2E8F0">C / C++ (ESP32)</text>
-    <text x="170" y="10" font-family="'SF Mono', Monaco, monospace" font-size="13" fill="#94A3B8">20%</text>
+  <!-- Legend 2 -->
+  <g transform="translate(24, 125)">
+    <circle cx="5" cy="5" r="4" fill="#7a7fad"/>
+    <text x="16" y="9" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Inter', sans-serif" font-size="12.5" fill="#f7f8f8">C / C++ (ESP32)</text>
+    <text x="165" y="9" font-family="'SF Mono', Menlo, monospace" font-size="12" fill="#8a8f98">20%</text>
 
-    <circle cx="215" cy="6" r="5" fill="#10B981"/>
-    <text x="230" y="10" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="600" fill="#E2E8F0">SQL / Shell</text>
-    <text x="365" y="10" font-family="'SF Mono', Monaco, monospace" font-size="13" fill="#94A3B8">10%</text>
+    <circle cx="215" cy="5" r="4" fill="#3e3e44"/>
+    <text x="226" y="9" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Inter', sans-serif" font-size="12.5" fill="#f7f8f8">SQL / Shell</text>
+    <text x="375" y="9" font-family="'SF Mono', Menlo, monospace" font-size="12" fill="#8a8f98">10%</text>
   </g>
 </svg>

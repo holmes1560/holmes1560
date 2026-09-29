@@ -1,45 +1,26 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 450 195" width="450" height="195">
-  <defs>
-    <linearGradient id="cardBg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0F172A"/>
-      <stop offset="100%" stop-color="#070B14"/>
-    </linearGradient>
-    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#38BDF8"/>
-      <stop offset="100%" stop-color="#818CF8"/>
-    </linearGradient>
-  </defs>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 450 185" width="450" height="185">
+  <rect width="448" height="183" x="1" y="1" rx="8" fill="#0f1011" stroke="#23252a" stroke-width="1.5"/>
 
-  <rect width="448" height="193" x="1" y="1" rx="12" fill="url(#cardBg)" stroke="#1E293B" stroke-width="1.5"/>
-
-  <!-- Title -->
-  <text x="25" y="35" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="18" font-weight="700" fill="url(#accent)">⚡ GitHub Engineer Profile</text>
+  <!-- Section Title -->
+  <text x="24" y="34" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Inter', sans-serif" font-size="14" font-weight="600" letter-spacing="1px" fill="#5e6ad2">SYSTEM METRICS</text>
 
   <!-- Metric 1: Public Repos -->
-  <g transform="translate(25, 65)">
-    <circle cx="6" cy="6" r="4" fill="#38BDF8"/>
-    <text x="20" y="10" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" fill="#94A3B8">Public Repositories</text>
-    <text x="390" y="10" font-family="'SF Mono', Monaco, monospace" font-size="15" font-weight="700" fill="#F8FAFC" text-anchor="end">12</text>
+  <g transform="translate(24, 60)">
+    <text x="0" y="10" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Inter', sans-serif" font-size="13" fill="#8a8f98">Public Repositories</text>
+    <text x="402" y="10" font-family="'SF Mono', Menlo, monospace" font-size="13" font-weight="600" fill="#f7f8f8" text-anchor="end">12</text>
+    <line x1="0" y1="20" x2="402" y2="20" stroke="#18191a" stroke-width="1"/>
   </g>
 
   <!-- Metric 2: Primary Domains -->
-  <g transform="translate(25, 95)">
-    <circle cx="6" cy="6" r="4" fill="#818CF8"/>
-    <text x="20" y="10" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" fill="#94A3B8">Core Disciplines</text>
-    <text x="390" y="10" font-family="'SF Mono', Monaco, monospace" font-size="13" font-weight="600" fill="#38BDF8" text-anchor="end">Full-Stack · IoT · Forensics</text>
+  <g transform="translate(24, 95)">
+    <text x="0" y="10" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Inter', sans-serif" font-size="13" fill="#8a8f98">Primary Focus</text>
+    <text x="402" y="10" font-family="'SF Mono', Menlo, monospace" font-size="13" font-weight="500" fill="#d0d6e0" text-anchor="end">Distributed Systems · Firmware</text>
+    <line x1="0" y1="20" x2="402" y2="20" stroke="#18191a" stroke-width="1"/>
   </g>
 
   <!-- Metric 3: Embedded Firmware -->
-  <g transform="translate(25, 125)">
-    <circle cx="6" cy="6" r="4" fill="#10B981"/>
-    <text x="20" y="10" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" fill="#94A3B8">Hardware Architectures</text>
-    <text x="390" y="10" font-family="'SF Mono', Monaco, monospace" font-size="13" font-weight="600" fill="#10B981" text-anchor="end">ESP32 · FreeRTOS · SPI</text>
-  </g>
-
-  <!-- Metric 4: Academic Origin -->
-  <g transform="translate(25, 155)">
-    <circle cx="6" cy="6" r="4" fill="#F59E0B"/>
-    <text x="20" y="10" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" fill="#94A3B8">Institution</text>
-    <text x="390" y="10" font-family="'SF Mono', Monaco, monospace" font-size="13" font-weight="600" fill="#F59E0B" text-anchor="end">KNUST Computer Science</text>
+  <g transform="translate(24, 130)">
+    <text x="0" y="10" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Inter', sans-serif" font-size="13" fill="#8a8f98">Hardware Architecture</text>
+    <text x="402" y="10" font-family="'SF Mono', Menlo, monospace" font-size="13" font-weight="500" fill="#d0d6e0" text-anchor="end">ESP32 · FreeRTOS · SPI</text>
   </g>
 </svg>
